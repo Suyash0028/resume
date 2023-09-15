@@ -8,4 +8,4 @@ Hi I am Suyash Kulkarni from India. I have completed my gradution from India and
 ## Contact: 
 
 
-![This is my Profile.](../../Downloads/IMG_4716%20copy.jpg "Suyash Kulkarni")
+![This is my Profile.](/IMG_4716%20copy.jpg "Suyash Kulkarni")
