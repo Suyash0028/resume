@@ -1,5 +1,5 @@
 # Suyash Kulkarni
-![This is my Profile.](/_readme/profilepic.jpg)
+![This is my Profile.](/_readme/profilepicture.jpg)
 ## About me: 
 Hi I am Suyash Kulkarni from India. I have completed my gradution from India and I was working as a Associate Software Developer in India. I am now enrolled with Web development course at humber college north campus. 
 
