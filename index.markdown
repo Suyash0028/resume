@@ -1,8 +1,14 @@
 ## Suyash Kulkarni
 ![This is my Profile.](./images/profilepicture.jpg)
 
+---
+
 
 [Home](index.markdown) - [About](./pages/about.markdown) - [Contacts](./pages/contacts.markdown) - [Projects](./pages/projects.markdown)
+
+
+
+---
 
 
 ## About me:
