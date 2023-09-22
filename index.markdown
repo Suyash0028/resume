@@ -4,7 +4,7 @@
 ---
 
 
-[Home](index.markdown)    [About](./pages/about.markdown)   [Contacts](./pages/contacts.markdown)   [Projects](./pages/projects.markdown)
+[Home](index.markdown)  |  [About](./pages/about.markdown)  |  [Contacts](./pages/contacts.markdown)  |  [Projects](./pages/projects.markdown)
 
 
 
@@ -35,6 +35,7 @@ My e-mail is - suyashkulkarni43@gmail.com
 | Sample Project One | https://learn.humber.ca/ultra/courses/_233709_1/outline | HTML,CSS,JS |
 | Sample Project Two | https://learn.humber.ca/ultra/courses/_233709_1/outline | JS,HTML,C# |
 
+[more...](./pages/projects.markdown)
 ## Education:
 - Diploma in Computer Engineering.
 - Degree in Computer Engineering.
