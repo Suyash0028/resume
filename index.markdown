@@ -1,8 +1,9 @@
 ## Suyash Kulkarni
-![This is my Profile.](./_readme/profilepicture.jpg)
----
-    [Home](index.markdown) - [About](./pages/about.markdown) - [Contacts](./pages/contacts.markdown) - [Projects](./pages/projects.markdown)
----
+![This is my Profile.](./images/profilepicture.jpg)
+
+
+[Home](index.markdown) - [About](./pages/about.markdown) - [Contacts](./pages/contacts.markdown) - [Projects](./pages/projects.markdown)
+
 
 ## About me:
 Hi I am Suyash Kulkarni from India. I have completed my gradution from India and I was working as a Associate Software Developer in India. I am now enrolled with Web development course at humber college north campus. 
