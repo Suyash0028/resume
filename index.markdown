@@ -4,7 +4,7 @@
 ---
 
 
-[Home](index.markdown) - [About](./pages/about.markdown) - [Contacts](./pages/contacts.markdown) - [Projects](./pages/projects.markdown)
+[Home](index.markdown)    [About](./pages/about.markdown)   [Contacts](./pages/contacts.markdown)   [Projects](./pages/projects.markdown)
 
 
 
@@ -14,8 +14,10 @@
 ## About me:
 Hi I am Suyash Kulkarni from India. I have completed my gradution from India and I was working as a Associate Software Developer in India. I am now enrolled with Web development course at humber college north campus. 
 [more...](./pages/about.markdown)
+
 ## Projects: 
 I have worked on the projects mostly related to the microsoft product called SharePoint. I have used typescript,CSOM, PowerShell etc languages to interact with the SharePoint.
+[more...](./pages/projects.markdown)
 
 ## Education: 
 I am a graduate in Computer Engineering.
