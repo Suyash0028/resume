@@ -1,6 +1,6 @@
 # Suyash Kulkarni
-![This is my Profile.](https://github.com/Suyash0028/resume/_readme/profilepicture.jpg)
-## About mes: 
+![This is my Profile.](./_readme/profilepicture.jpg)
+## ![About me:] (about.markdown)
 Hi I am Suyash Kulkarni from India. I have completed my gradution from India and I was working as a Associate Software Developer in India. I am now enrolled with Web development course at humber college north campus. 
 
 ## Projects: 
@@ -11,7 +11,7 @@ I am a graduate in Computer Engineering.
 
 ## Work Experience: 
 I have 2 years of experience working as a Associate Software developer.
-## Contact: 
+## ![Contact:] (contacts.markdown)
 My e-mail is - suyashkulkarni43@gmail.com
 
 ## Projects:
