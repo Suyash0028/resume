@@ -1,4 +1,3 @@
-:arrow_backward:  [Home](../index.markdown)
 ## Projects
 
 | Title | URL | Technology |
